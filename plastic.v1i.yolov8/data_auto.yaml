@@ -1,0 +1,6 @@
+names:
+- waste
+nc: 1
+path: C:\Users\arula\Downloads\plastic.v1i.yolov8\dataset_split
+train: images/train
+val: images/val

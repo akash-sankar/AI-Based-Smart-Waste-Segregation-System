@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 39
+names: ['Nylon', 'book', 'bookcase', 'bottle', 'box', 'candy', 'cat', 'clothing', 'doll', 'dress', 'food', 'footwear', 'furniture', 'girl', 'glasses', 'glove', 'humanarm', 'humanbody', 'humaneye', 'humanface', 'humanhair', 'humanhand', 'humanhead', 'humanmouth', 'humannose', 'jeans', 'landvehicle', 'mammal', 'man', 'person', 'plant', 'plastic bag', 'plasticbag', 'shelf', 'snack', 'toy', 'tree', 'vegetable', 'woman']
+
+roboflow:
+  workspace: charless-workspace-6omar
+  project: plastic-rbaxs-ct01g
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/charless-workspace-6omar/plastic-rbaxs-ct01g/dataset/1
